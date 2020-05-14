@@ -7,6 +7,8 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 
+// Look a comment
+
 namespace michaelWalker_pipelineDemo
 {
     public class Program
