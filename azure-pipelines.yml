@@ -22,8 +22,8 @@ stages:
     jobs: 
       - job: 'build'
         steps:
-          - script: 'dotnet build'
           - script: echo "oh hey $(person)"
+          - script: 'dotnet build'
       - job: 'test'
         dependsOn: 'build'
         steps:
