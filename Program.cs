@@ -8,6 +8,7 @@ using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 
 // Look a comment
+// Look Another comment
 
 namespace michaelWalker_pipelineDemo
 {
